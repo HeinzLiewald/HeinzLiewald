@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Heinz
+- 👀 I’m interested in technology, sports and wellbeing
+- 🌱 I’m currently learning more about Azure!
+- 📫 You can reach me on my [LinkedIn](https://www.linkedin.com/in/heinzliewald/)
